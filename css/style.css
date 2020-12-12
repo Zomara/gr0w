@@ -155,7 +155,8 @@
      margin: 0;
      padding: 0;
 }
-/**-- heading section --**/
+/**-- heading section --**/ 
+.logo img{width: 300px;}
  .main_heading {
      text-align: center;
      display: flex;
@@ -898,9 +899,8 @@
      color: #fff !important;
 }
 /*--------------------------------------------------------------------- ener page css ---------------------------------------------------------------------*/
- .bg_bg {
-    background: url(../images/bg.jpg);
-}
+
+
  .yellow_bg .title h2 {
      font-weight: bold;
      color: #fff;
